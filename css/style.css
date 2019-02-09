@@ -42,10 +42,45 @@ header{
 }
 .box-1{
 	width: 617px;
-	height: 356px;
+	height: 300px;
 	background-color: #FCEE21;
+	padding: 23px 24px 36px 26px;
 }
 .par{
 	display: inline-block;
 	width: 389px;
+}
+.i-par{
+	width: 556px;
+}
+.banner{
+	float: right;
+}
+.box-2{
+	width: 483px;
+	height: 300px;
+	background-color: #FCEE21;
+	padding: 23px 24px 36px 26px;
+	display: inline-block;
+	float: right;
+	margin-left: 10px;
+}
+.ib{
+	display: inline-block;
+}
+.clear-1{
+	clear: both;
+}
+.banner2{
+	display: inline-block;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 16px;
+}
+.par-1{
+	width: 450px;
+	color: #006837
+}
+.i-par-1{
+	color: #006837
 }
